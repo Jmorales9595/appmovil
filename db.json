@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "identificacion": "12345",
+        "nombre": "jorge",
+        "curso": "octavo",
+        "materia": "sistemas",
+        "nota1": "2"
+    },
+    {
+        "id": "2",
+        "identificacion": "456",
+        "nombre": "Andres",
+        "curso": "noveno",
+        "materia": "biologia",
+        "nota1": "4.5"
+    },
+    {
+        "id": "3",
+        "identificacion": "78945",
+        "nombre": "juliana",
+        "curso": "decimo",
+        "materia": "matematicas",
+        "nota1": "1"
+    },
+    {
+        "id": "4",
+        "identificacion": "14567",
+        "nombre": "claudia",
+        "curso": "segundo",
+        "materia": "ingles",
+        "nota1": "2.5"
+    },
+    {
+        "id": "5",
+        "identificacion": "999999",
+        "nombre": "cristian",
+        "curso": "noveno",
+        "materia": "filosofia",
+        "nota1": "3.2"
+    },
+    {
+        "id": "6",
+        "identificacion": "4968794",
+        "nombre": "brayan",
+        "curso": "primero",
+        "materia": "sociales",
+        "nota1": "3"
+    },
+    {
+        "id": "7",
+        "identificacion": "1033478951",
+        "nombre": "lucila",
+        "curso": "tercero",
+        "materia": "educacion fisica",
+        "nota1": "2.6"
+    },
+    {
+        "id": "8",
+        "identificacion": "456897",
+        "nombre": "fabian",
+        "curso": "tercero",
+        "materia": "fisica",
+        "nota1": "5"
+    },
+    {
+        "id": "9",
+        "identificacion": "147852",
+        "nombre": "julian",
+        "curso": "cuarto",
+        "materia": "quimica",
+        "nota1": "3"
+    },
+    {
+        "id": "10",
+        "identificacion": "192566",
+        "nombre": "carlos",
+        "curso": "ciencias",
+        "materia": "etica",
+        "nota1": "3.8"
+    },
+    {
+        "id": "12",
+        "identificacion": "55555",
+        "nombre": "juanes",
+        "curso": "noveno",
+        "materia": "biologia",
+        "nota1": "4.5"
+    }
+]
