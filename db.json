@@ -5,7 +5,6 @@
         "nombre": "jorge",
         "curso": "octavo",
         "materia": "sistemas",
-        "nota1": "2"
     },
     {
         "id": "2",
@@ -13,7 +12,6 @@
         "nombre": "Andres",
         "curso": "noveno",
         "materia": "biologia",
-        "nota1": "4.5"
     },
     {
         "id": "3",
@@ -21,7 +19,6 @@
         "nombre": "juliana",
         "curso": "decimo",
         "materia": "matematicas",
-        "nota1": "1"
     },
     {
         "id": "4",
@@ -29,7 +26,6 @@
         "nombre": "claudia",
         "curso": "segundo",
         "materia": "ingles",
-        "nota1": "2.5"
     },
     {
         "id": "5",
@@ -37,7 +33,6 @@
         "nombre": "cristian",
         "curso": "noveno",
         "materia": "filosofia",
-        "nota1": "3.2"
     },
     {
         "id": "6",
@@ -45,7 +40,6 @@
         "nombre": "brayan",
         "curso": "primero",
         "materia": "sociales",
-        "nota1": "3"
     },
     {
         "id": "7",
@@ -53,7 +47,6 @@
         "nombre": "lucila",
         "curso": "tercero",
         "materia": "educacion fisica",
-        "nota1": "2.6"
     },
     {
         "id": "8",
@@ -61,7 +54,6 @@
         "nombre": "fabian",
         "curso": "tercero",
         "materia": "fisica",
-        "nota1": "5"
     },
     {
         "id": "9",
@@ -69,7 +61,6 @@
         "nombre": "julian",
         "curso": "cuarto",
         "materia": "quimica",
-        "nota1": "3"
     },
     {
         "id": "10",
@@ -77,7 +68,6 @@
         "nombre": "carlos",
         "curso": "ciencias",
         "materia": "etica",
-        "nota1": "3.8"
     },
     {
         "id": "12",
@@ -85,6 +75,5 @@
         "nombre": "juanes",
         "curso": "noveno",
         "materia": "biologia",
-        "nota1": "4.5"
     }
 ]
